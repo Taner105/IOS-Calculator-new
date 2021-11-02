@@ -81,15 +81,17 @@ body{
     /* border: 1px solid red; */
     margin-top: 5px;
     padding: 10px;
-    padding-left: 265px;
+    /* padding-left: 265px; */
     font-size: 40px;
     opacity: .5;
     color: #fff;
+    height:50px ;
 }
 .down-cheapter{
+    height: 90px;
     /* border: 1px solid red; */
     padding: 10px;
-    padding-left: 260px;
+    /* padding-left: 260px; */
     font-size: 60px;
     color: #fff;
 }
